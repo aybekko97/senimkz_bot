@@ -1,0 +1,2452 @@
+[
+  {
+    "id": 18371,
+    "name": "Business Hotel Almaty",
+    "category": "Отель",
+    "longitude": 76.876602,
+    "latitude": 43.256872
+  },
+  {
+    "id": 18371,
+    "name": "Business Hotel Almaty",
+    "category": "Гостиница",
+    "longitude": 76.876602,
+    "latitude": 43.256872
+  },
+  {
+    "id": 18394,
+    "name": "Отель «ТАУ House»",
+    "category": "Гостиница",
+    "longitude": 76.908764,
+    "latitude": 43.087581
+  },
+  {
+    "id": 18394,
+    "name": "Отель «ТАУ House»",
+    "category": "Отель",
+    "longitude": 76.908764,
+    "latitude": 43.087581
+  },
+  {
+    "id": 18417,
+    "name": "The Dostyk Hotel",
+    "category": "Отель",
+    "longitude": 76.951251,
+    "latitude": 43.244204
+  },
+  {
+    "id": 18417,
+    "name": "The Dostyk Hotel",
+    "category": "Гостиница",
+    "longitude": 76.951251,
+    "latitude": 43.244204
+  },
+  {
+    "id": 18440,
+    "name": "Iris hotel",
+    "category": "Отель",
+    "longitude": 76.948967,
+    "latitude": 43.240374
+  },
+  {
+    "id": 18440,
+    "name": "Iris hotel",
+    "category": "Гостиница",
+    "longitude": 76.948967,
+    "latitude": 43.240374
+  },
+  {
+    "id": 18463,
+    "name": "Royal Tulip Almaty",
+    "category": "Отель",
+    "longitude": 76.977684,
+    "latitude": 43.203109
+  },
+  {
+    "id": 18463,
+    "name": "Royal Tulip Almaty",
+    "category": "Гостиница",
+    "longitude": 76.977684,
+    "latitude": 43.203109
+  },
+  {
+    "id": 18486,
+    "name": "The Ritz-Carlton",
+    "category": "Отель",
+    "longitude": 76.929193,
+    "latitude": 43.219066
+  },
+  {
+    "id": 18509,
+    "name": "Rahat Palace Hotel",
+    "category": "Отель",
+    "longitude": 76.916544,
+    "latitude": 43.237265
+  },
+  {
+    "id": 18532,
+    "name": "Royal Plaza Hotel & Casino",
+    "category": "Отель",
+    "longitude": 77.063101,
+    "latitude": 43.879373
+  },
+  {
+    "id": 18555,
+    "name": "Гостиница «Golden Palace»",
+    "category": "Гостиница",
+    "longitude": 76.926619,
+    "latitude": 43.250556
+  },
+  {
+    "id": 18555,
+    "name": "Гостиница «Golden Palace»",
+    "category": "Отель",
+    "longitude": 76.926619,
+    "latitude": 43.250556
+  },
+  {
+    "id": 18578,
+    "name": "Grand Hotel Tien Shan",
+    "category": "Отель",
+    "longitude": 76.949483,
+    "latitude": 43.253854
+  },
+  {
+    "id": 18578,
+    "name": "Grand Hotel Tien Shan",
+    "category": "Гостиница",
+    "longitude": 76.949483,
+    "latitude": 43.253854
+  },
+  {
+    "id": 18601,
+    "name": "Holiday Inn Almaty",
+    "category": "Отель",
+    "longitude": 76.939266,
+    "latitude": 43.233238
+  },
+  {
+    "id": 18601,
+    "name": "Holiday Inn Almaty",
+    "category": "Гостиница",
+    "longitude": 76.939266,
+    "latitude": 43.233238
+  },
+  {
+    "id": 18624,
+    "name": "Grand Sapphire Hotel",
+    "category": "Отель",
+    "longitude": 76.956163,
+    "latitude": 43.254640
+  },
+  {
+    "id": 18624,
+    "name": "Grand Sapphire Hotel",
+    "category": "Гостиница",
+    "longitude": 76.956163,
+    "latitude": 43.254640
+  },
+  {
+    "id": 18647,
+    "name": "OLIVIER Restaurant & Bar. PGR",
+    "category": "Рестораны",
+    "longitude": 76.947333,
+    "latitude": 43.244907
+  },
+  {
+    "id": 18647,
+    "name": "OLIVIER Restaurant & Bar. PGR",
+    "category": "Бары",
+    "longitude": 76.947333,
+    "latitude": 43.244907
+  },
+  {
+    "id": 18670,
+    "name": "Samal Entrecote",
+    "category": "Рестораны",
+    "longitude": 77.036239,
+    "latitude": 43.171933
+  },
+  {
+    "id": 18693,
+    "name": "\"Zoloto\" Restaurant",
+    "category": "Рестораны",
+    "longitude": 76.964584,
+    "latitude": 43.218215
+  },
+  {
+    "id": 18693,
+    "name": "\"Zoloto\" Restaurant",
+    "category": "Бары",
+    "longitude": 76.964584,
+    "latitude": 43.218215
+  },
+  {
+    "id": 18716,
+    "name": "Line Brew",
+    "category": "Рестораны",
+    "longitude": 76.947876,
+    "latitude": 43.241310
+  },
+  {
+    "id": 18739,
+    "name": "Dickens Restaurant & Bar",
+    "category": "Рестораны",
+    "longitude": 76.956717,
+    "latitude": 43.247691
+  },
+  {
+    "id": 18739,
+    "name": "Dickens Restaurant & Bar",
+    "category": "Бары",
+    "longitude": 76.956717,
+    "latitude": 43.247691
+  },
+  {
+    "id": 18762,
+    "name": "Ресторан «AmurE»",
+    "category": "Рестораны",
+    "longitude": 76.952546,
+    "latitude": 43.257449
+  },
+  {
+    "id": 18785,
+    "name": "Crudo Steak House",
+    "category": "Рестораны",
+    "longitude": 76.892087,
+    "latitude": 43.200910
+  },
+  {
+    "id": 18808,
+    "name": "Ресторан \"Жеті қазына\"",
+    "category": "Рестораны",
+    "longitude": 76.942123,
+    "latitude": 43.263564
+  },
+  {
+    "id": 18831,
+    "name": "VISTA",
+    "category": "Рестораны",
+    "longitude": 76.929103,
+    "latitude": 43.219100
+  },
+  {
+    "id": 18854,
+    "name": "Манана",
+    "category": "Рестораны",
+    "longitude": 76.976773,
+    "latitude": 43.203630
+  },
+  {
+    "id": 18877,
+    "name": "Europolis",
+    "category": "Рестораны",
+    "longitude": 76.927201,
+    "latitude": 43.316355
+  },
+  {
+    "id": 18900,
+    "name": "EAST Restaurant",
+    "category": "Рестораны",
+    "longitude": 76.927536,
+    "latitude": 43.218620
+  },
+  {
+    "id": 18923,
+    "name": "Park Resort «Восемь Озер»",
+    "category": "Отель",
+    "longitude": 77.119056,
+    "latitude": 43.509494
+  },
+  {
+    "id": 18923,
+    "name": "Park Resort «Восемь Озер»",
+    "category": "Спорт",
+    "longitude": 77.119056,
+    "latitude": 43.509494
+  },
+  {
+    "id": 18946,
+    "name": "Kinoplexx Sary Arka 3D",
+    "category": "Интернет и компьютерные клубы",
+    "longitude": 76.857753,
+    "latitude": 43.228540
+  },
+  {
+    "id": 18969,
+    "name": "Жасмин",
+    "category": "Салоны красоты",
+    "longitude": 76.949028,
+    "latitude": 43.261760
+  },
+  {
+    "id": 18992,
+    "name": "Dermalogica Beauty Salon",
+    "category": "Салоны красоты",
+    "longitude": 76.950511,
+    "latitude": 43.250347
+  },
+  {
+    "id": 19015,
+    "name": "Top Beauty",
+    "category": "Салоны красоты",
+    "longitude": 76.950448,
+    "latitude": 43.250604
+  },
+  {
+    "id": 19038,
+    "name": "Zhabel",
+    "category": "Салоны красоты",
+    "longitude": 76.949045,
+    "latitude": 43.261760
+  },
+  {
+    "id": 19061,
+    "name": "Selective Professional",
+    "category": "Салоны красоты",
+    "longitude": 76.955595,
+    "latitude": 43.256459
+  },
+  {
+    "id": 19130,
+    "name": "Lotos",
+    "category": "Салоны красоты",
+    "longitude": 76.933777,
+    "latitude": 43.231613
+  },
+  {
+    "id": 19153,
+    "name": "Mr.Barber",
+    "category": "Салоны красоты",
+    "longitude": 76.908153,
+    "latitude": 43.234780
+  },
+  {
+    "id": 19176,
+    "name": "Asia beauty",
+    "category": "Салоны красоты",
+    "longitude": 76.905166,
+    "latitude": 43.233861
+  },
+  {
+    "id": 19199,
+    "name": "Студия красоты и здоровья «Masters&Kaya»",
+    "category": "Салоны красоты",
+    "longitude": 76.957284,
+    "latitude": 43.225734
+  },
+  {
+    "id": 19199,
+    "name": "Студия красоты и здоровья «Masters&Kaya»",
+    "category": "Спорт",
+    "longitude": 76.957284,
+    "latitude": 43.225734
+  },
+  {
+    "id": 19222,
+    "name": "Эстетик-центр Luxcosmed",
+    "category": "Салоны красоты",
+    "longitude": 76.955798,
+    "latitude": 43.254796
+  },
+  {
+    "id": 19245,
+    "name": "Pattaya SPA",
+    "category": "Салоны красоты",
+    "longitude": 76.902394,
+    "latitude": 43.142427
+  },
+  {
+    "id": 19268,
+    "name": "Grand Opera Karaoke",
+    "category": "Рестораны",
+    "longitude": 76.936199,
+    "latitude": 43.248772
+  },
+  {
+    "id": 19268,
+    "name": "Grand Opera Karaoke",
+    "category": "Бары",
+    "longitude": 76.936199,
+    "latitude": 43.248772
+  },
+  {
+    "id": 19291,
+    "name": "World Class Almaty",
+    "category": "Спорт",
+    "longitude": 76.936128,
+    "latitude": 43.248137
+  },
+  {
+    "id": 19337,
+    "name": "Кинотеатр Kinopark 11 IMAX Esentai",
+    "category": "Кинотеатры",
+    "longitude": 76.927919,
+    "latitude": 43.218521
+  },
+  {
+    "id": 19360,
+    "name": "Магазин музыкальных инструментов \"Music avenue\"",
+    "category": "Супермаркеты",
+    "longitude": 76.925585,
+    "latitude": 43.249700
+  },
+  {
+    "id": 19383,
+    "name": "Торгово-развлекательный центр MART",
+    "category": "Супермаркеты",
+    "longitude": 76.953434,
+    "latitude": 43.335922
+  },
+  {
+    "id": 19383,
+    "name": "Торгово-развлекательный центр MART",
+    "category": "Фастфуд",
+    "longitude": 76.953434,
+    "latitude": 43.335922
+  },
+  {
+    "id": 19383,
+    "name": "Торгово-развлекательный центр MART",
+    "category": "Кинотеатры",
+    "longitude": 76.953434,
+    "latitude": 43.335922
+  },
+  {
+    "id": 35644,
+    "name": "Balapantoys.kz",
+    "category": "Прочие магазины",
+    "longitude": 76.844084,
+    "latitude": 43.242868
+  },
+  {
+    "id": 19958,
+    "name": "SMALL",
+    "category": "Супермаркеты",
+    "longitude": 76.937167,
+    "latitude": 43.242685
+  },
+  {
+    "id": 19981,
+    "name": "Рамстор",
+    "category": "Супермаркеты",
+    "longitude": 76.951344,
+    "latitude": 43.233299
+  },
+  {
+    "id": 20004,
+    "name": "АПТЕКАПЛЮС",
+    "category": "Аптеки",
+    "longitude": 76.905307,
+    "latitude": 43.227827
+  },
+  {
+    "id": 35644,
+    "name": "Balapantoys.kz",
+    "category": "Детские товары",
+    "longitude": 76.844084,
+    "latitude": 43.242868
+  },
+  {
+    "id": 17060,
+    "name": "SarsGroup",
+    "category": "Спорт",
+    "longitude": 76.895815,
+    "latitude": 43.277496
+  },
+  {
+    "id": 16945,
+    "name": "Эклер",
+    "category": "Продуктовые магазины",
+    "longitude": 76.933063,
+    "latitude": 43.222689
+  },
+  {
+    "id": 17106,
+    "name": "Ип Меруер",
+    "category": "Хостелы",
+    "longitude": 76.893425,
+    "latitude": 43.241226
+  },
+  {
+    "id": 17083,
+    "name": "ИП Атушева",
+    "category": "Спорт",
+    "longitude": 76.895824,
+    "latitude": 43.277496
+  },
+  {
+    "id": 16922,
+    "name": "\"Авоська\" мини-маркет",
+    "category": "Продуктовые магазины",
+    "longitude": 76.935373,
+    "latitude": 43.223575
+  },
+  {
+    "id": 35644,
+    "name": "Balapantoys.kz",
+    "category": "Мебель и интерьер",
+    "longitude": 76.844084,
+    "latitude": 43.242868
+  },
+  {
+    "id": 20073,
+    "name": "Perfect Stom",
+    "category": "Стоматологические центры",
+    "longitude": 76.874101,
+    "latitude": 43.249089
+  },
+  {
+    "id": 51698,
+    "name": "Aryana",
+    "category": "Кафе",
+    "longitude": 76.927434,
+    "latitude": 43.243637
+  },
+  {
+    "id": 20924,
+    "name": "Novamed Almaty",
+    "category": "Медицинские центры",
+    "longitude": 76.958420,
+    "latitude": 43.235760
+  },
+  {
+    "id": 20993,
+    "name": "Магазин Цветов",
+    "category": "Цветочные магазины",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 21499,
+    "name": "Elif Chemicals",
+    "category": "Строительные материалы",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 21890,
+    "name": "Автозапчасти для Американских (США) авто",
+    "category": "Авто магазины",
+    "longitude": 76.822493,
+    "latitude": 43.238741
+  },
+  {
+    "id": 46868,
+    "name": "Fantasia-A",
+    "category": "Рекламные услуги",
+    "longitude": 76.958270,
+    "latitude": 43.254020
+  },
+  {
+    "id": 46868,
+    "name": "Fantasia-A",
+    "category": "Полиграфия и дизайн",
+    "longitude": 76.958270,
+    "latitude": 43.254020
+  },
+  {
+    "id": 21729,
+    "name": "Dragon Karaoke & Bar",
+    "category": "Ночные клубы и караоке",
+    "longitude": 76.947364,
+    "latitude": 43.252649
+  },
+  {
+    "id": 46822,
+    "name": "FANTASYART",
+    "category": "Одежда",
+    "longitude": 76.958000,
+    "latitude": 43.254000
+  },
+  {
+    "id": 46822,
+    "name": "FANTASYART",
+    "category": "Детские товары",
+    "longitude": 76.958000,
+    "latitude": 43.254000
+  },
+  {
+    "id": 22166,
+    "name": "Фитнес центр Adrenaline на Арбате",
+    "category": "Фитнес центры",
+    "longitude": 76.950061,
+    "latitude": 43.262176
+  },
+  {
+    "id": 22189,
+    "name": "Фитнес центр Adrenaline на Ботанике",
+    "category": "Фитнес центры",
+    "longitude": 76.905755,
+    "latitude": 43.230683
+  },
+  {
+    "id": 46822,
+    "name": "FANTASYART",
+    "category": "Подарки и сувениры",
+    "longitude": 76.958000,
+    "latitude": 43.254000
+  },
+  {
+    "id": 22419,
+    "name": "Автозапчасти На все марки машин",
+    "category": "Минимаркеты",
+    "longitude": 76.914881,
+    "latitude": 43.251760
+  },
+  {
+    "id": 22419,
+    "name": "Автозапчасти На все марки машин",
+    "category": "Авто магазины",
+    "longitude": 76.914881,
+    "latitude": 43.251760
+  },
+  {
+    "id": 22419,
+    "name": "Автозапчасти На все марки машин",
+    "category": "Супермаркеты",
+    "longitude": 76.914881,
+    "latitude": 43.251760
+  },
+  {
+    "id": 46822,
+    "name": "FANTASYART",
+    "category": "Текстиль и кожа",
+    "longitude": 76.958000,
+    "latitude": 43.254000
+  },
+  {
+    "id": 45488,
+    "name": "Позитиff",
+    "category": "Активный отдых",
+    "longitude": 76.955627,
+    "latitude": 43.262340
+  },
+  {
+    "id": 45488,
+    "name": "Позитиff",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.955627,
+    "latitude": 43.262340
+  },
+  {
+    "id": 22741,
+    "name": "Метла Бар",
+    "category": "Бары",
+    "longitude": 76.911542,
+    "latitude": 43.257896
+  },
+  {
+    "id": 22810,
+    "name": "Автомойка Торнадо",
+    "category": "Автомойки",
+    "longitude": 76.905168,
+    "latitude": 43.240451
+  },
+  {
+    "id": 45373,
+    "name": "HelloHostel",
+    "category": "Хостелы",
+    "longitude": 76.934654,
+    "latitude": 43.251562
+  },
+  {
+    "id": 36380,
+    "name": "Тихий уголок у Гарри",
+    "category": "Кафе",
+    "longitude": 76.939288,
+    "latitude": 43.254777
+  },
+  {
+    "id": 22948,
+    "name": "Тренажерный зал Boroda GYM",
+    "category": "Фитнес центры",
+    "longitude": 76.911828,
+    "latitude": 43.257955
+  },
+  {
+    "id": 22971,
+    "name": "Boroda Dance (восточные танцы)",
+    "category": "Спорт",
+    "longitude": 76.911791,
+    "latitude": 43.257944
+  },
+  {
+    "id": 25087,
+    "name": "K-Global",
+    "category": "Строительные материалы",
+    "longitude": 76.906813,
+    "latitude": 43.246733
+  },
+  {
+    "id": 24236,
+    "name": "M'Art studio",
+    "category": "Полиграфии",
+    "longitude": 76.890838,
+    "latitude": 43.233155
+  },
+  {
+    "id": 23937,
+    "name": "Perfect clean",
+    "category": "Салоны красоты",
+    "longitude": 76.925852,
+    "latitude": 43.246763
+  },
+  {
+    "id": 24558,
+    "name": "KANISHKA",
+    "category": "Одежда",
+    "longitude": 76.936150,
+    "latitude": 43.258440
+  },
+  {
+    "id": 24558,
+    "name": "KANISHKA",
+    "category": "Прочие магазины",
+    "longitude": 76.936150,
+    "latitude": 43.258440
+  },
+  {
+    "id": 24558,
+    "name": "KANISHKA",
+    "category": "Подарки и сувениры",
+    "longitude": 76.936150,
+    "latitude": 43.258440
+  },
+  {
+    "id": 23845,
+    "name": "Кутумов и Партнеры",
+    "category": "Юридические услуги",
+    "longitude": 76.892091,
+    "latitude": 43.242987
+  },
+  {
+    "id": 23845,
+    "name": "Кутумов и Партнеры",
+    "category": "Консалтинговые услуги",
+    "longitude": 76.892091,
+    "latitude": 43.242987
+  },
+  {
+    "id": 23799,
+    "name": "Life Dance",
+    "category": "Фитнес центры",
+    "longitude": 76.880616,
+    "latitude": 43.233989
+  },
+  {
+    "id": 25225,
+    "name": "KazKor Profi Auto",
+    "category": "Спорт",
+    "longitude": 76.957675,
+    "latitude": 43.240671
+  },
+  {
+    "id": 25225,
+    "name": "KazKor Profi Auto",
+    "category": "Курсы",
+    "longitude": 76.957675,
+    "latitude": 43.240671
+  },
+  {
+    "id": 22833,
+    "name": "Wafl Гонконские Вафли ( Мороженное, Сливки, Коктейли)",
+    "category": "Фастфуд",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 35782,
+    "name": "Азия Фарадей",
+    "category": "Полиграфия и дизайн",
+    "longitude": 76.901683,
+    "latitude": 43.253958
+  },
+  {
+    "id": 24558,
+    "name": "KANISHKA",
+    "category": "Предметы искусства",
+    "longitude": 76.936150,
+    "latitude": 43.258440
+  },
+  {
+    "id": 23661,
+    "name": "Marina Flowers - цветы, букеты, композиции (на Джандосова)",
+    "category": "Цветочные магазины",
+    "longitude": 76.908873,
+    "latitude": 43.235581
+  },
+  {
+    "id": 23707,
+    "name": "Marina Flowers - цветы, букеты, композиции (на Абая)",
+    "category": "Цветочные магазины",
+    "longitude": 76.862335,
+    "latitude": 43.226325
+  },
+  {
+    "id": 35782,
+    "name": "Азия Фарадей",
+    "category": "Подарки и сувениры",
+    "longitude": 76.901683,
+    "latitude": 43.253958
+  },
+  {
+    "id": 35782,
+    "name": "Азия Фарадей",
+    "category": "Полиграфия",
+    "longitude": 76.901683,
+    "latitude": 43.253958
+  },
+  {
+    "id": 22649,
+    "name": "Магазин корейской косметики Koreakidsss",
+    "category": "Косметика",
+    "longitude": 76.899452,
+    "latitude": 43.205168
+  },
+  {
+    "id": 24167,
+    "name": "Papapizza - доставка пиццы по г.Алматы",
+    "category": "Фастфуд",
+    "longitude": 76.884865,
+    "latitude": 43.237368
+  },
+  {
+    "id": 23983,
+    "name": "Рестобар Dacascos",
+    "category": "Рестораны",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 24351,
+    "name": "Dance Studio Vegas",
+    "category": "Фитнес центры",
+    "longitude": 76.954994,
+    "latitude": 43.261875
+  },
+  {
+    "id": 24558,
+    "name": "KANISHKA",
+    "category": "Текстиль и кожа",
+    "longitude": 76.936150,
+    "latitude": 43.258440
+  },
+  {
+    "id": 29503,
+    "name": "Up2u",
+    "category": "Курсы",
+    "longitude": 76.897949,
+    "latitude": 43.231792
+  },
+  {
+    "id": 24903,
+    "name": "Candy Brow Bar",
+    "category": "Салоны красоты",
+    "longitude": 76.925230,
+    "latitude": 43.240180
+  },
+  {
+    "id": 48317,
+    "name": "Студия звукозаписи EMPIRE inc",
+    "category": "Культура и искусство",
+    "longitude": 76.839061,
+    "latitude": 43.219210
+  },
+  {
+    "id": 30998,
+    "name": "Samuryk",
+    "category": "Активный отдых",
+    "longitude": 76.948546,
+    "latitude": 43.233266
+  },
+  {
+    "id": 24144,
+    "name": "Учебный Центр Асем",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.952920,
+    "latitude": 43.253450
+  },
+  {
+    "id": 24282,
+    "name": "Мята",
+    "category": "Одежда",
+    "longitude": 76.937161,
+    "latitude": 43.254175
+  },
+  {
+    "id": 24282,
+    "name": "Мята",
+    "category": "Прочие магазины",
+    "longitude": 76.937161,
+    "latitude": 43.254175
+  },
+  {
+    "id": 60208,
+    "name": "Ремонт электроинструментов",
+    "category": "Ремонт",
+    "longitude": 76.823520,
+    "latitude": 43.224176
+  },
+  {
+    "id": 28537,
+    "name": "Grand Education",
+    "category": "Учебные заведения",
+    "longitude": 76.956850,
+    "latitude": 43.256822
+  },
+  {
+    "id": 28537,
+    "name": "Grand Education",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.956850,
+    "latitude": 43.256822
+  },
+  {
+    "id": 28537,
+    "name": "Grand Education",
+    "category": "Курсы",
+    "longitude": 76.956850,
+    "latitude": 43.256822
+  },
+  {
+    "id": 28537,
+    "name": "Grand Education",
+    "category": "Обучение за рубежом",
+    "longitude": 76.956850,
+    "latitude": 43.256822
+  },
+  {
+    "id": 27548,
+    "name": "Фотостудия Белый Кролик",
+    "category": "Полиграфия и дизайн",
+    "longitude": 76.902528,
+    "latitude": 43.239689
+  },
+  {
+    "id": 27525,
+    "name": "ШеДеВР музыкальная школа",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.950326,
+    "latitude": 43.243331
+  },
+  {
+    "id": 27525,
+    "name": "ШеДеВР музыкальная школа",
+    "category": "Курсы",
+    "longitude": 76.950326,
+    "latitude": 43.243331
+  },
+  {
+    "id": 25018,
+    "name": "Kalispera",
+    "category": "Рестораны",
+    "longitude": 76.948184,
+    "latitude": 43.262047
+  },
+  {
+    "id": 25018,
+    "name": "Kalispera",
+    "category": "Кафе",
+    "longitude": 76.948184,
+    "latitude": 43.262047
+  },
+  {
+    "id": 25041,
+    "name": "Атлантида",
+    "category": "Кафе",
+    "longitude": 76.948637,
+    "latitude": 43.261767
+  },
+  {
+    "id": 25041,
+    "name": "Атлантида",
+    "category": "Кофейни",
+    "longitude": 76.948637,
+    "latitude": 43.261767
+  },
+  {
+    "id": 48800,
+    "name": "Прокат женских платьев",
+    "category": "Прокат платьев и смокингов",
+    "longitude": 76.838910,
+    "latitude": 43.219142
+  },
+  {
+    "id": 24006,
+    "name": "Уборка в Алматы",
+    "category": "Клининговые услуги",
+    "longitude": 76.944670,
+    "latitude": 43.238128
+  },
+  {
+    "id": 24006,
+    "name": "Уборка в Алматы",
+    "category": "Химчистки",
+    "longitude": 76.944670,
+    "latitude": 43.238128
+  },
+  {
+    "id": 29940,
+    "name": "Shanti йога студия",
+    "category": "Активный отдых",
+    "longitude": 76.906128,
+    "latitude": 43.232715
+  },
+  {
+    "id": 23730,
+    "name": "Суши Алматы",
+    "category": "Фастфуд",
+    "longitude": 76.855528,
+    "latitude": 43.244202
+  },
+  {
+    "id": 24213,
+    "name": "Танцевальная Школа \"FM\" Эльвиры Валиевой",
+    "category": "Спорт",
+    "longitude": 76.946825,
+    "latitude": 43.329648
+  },
+  {
+    "id": 24213,
+    "name": "Танцевальная Школа \"FM\" Эльвиры Валиевой",
+    "category": "Культура и искусство",
+    "longitude": 76.946825,
+    "latitude": 43.329648
+  },
+  {
+    "id": 23040,
+    "name": "Стоматология Nova Dent",
+    "category": "Стоматологические центры",
+    "longitude": 76.899279,
+    "latitude": 43.205651
+  },
+  {
+    "id": 23316,
+    "name": "Срочная типография",
+    "category": "Полиграфии",
+    "longitude": 76.935776,
+    "latitude": 43.254909
+  },
+  {
+    "id": 22534,
+    "name": "LKM Kazakhstan",
+    "category": "Строительные материалы",
+    "longitude": 76.894648,
+    "latitude": 43.257999
+  },
+  {
+    "id": 23408,
+    "name": "Магазин",
+    "category": "Одежда",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 22994,
+    "name": "Boroda - Aikido, Karate (детский)",
+    "category": "Спорт",
+    "longitude": 76.911702,
+    "latitude": 43.257951
+  },
+  {
+    "id": 46040,
+    "name": "Royal ORSEP",
+    "category": "Рестораны",
+    "longitude": 76.639067,
+    "latitude": 43.221848
+  },
+  {
+    "id": 46040,
+    "name": "Royal ORSEP",
+    "category": "Банкетный зал",
+    "longitude": 76.639067,
+    "latitude": 43.221848
+  },
+  {
+    "id": 47512,
+    "name": "Hard Hookah Bar",
+    "category": "Бары",
+    "longitude": 76.955169,
+    "latitude": 43.254444
+  },
+  {
+    "id": 36380,
+    "name": "Тихий уголок у Гарри",
+    "category": "Бары",
+    "longitude": 76.939288,
+    "latitude": 43.254777
+  },
+  {
+    "id": 34862,
+    "name": "Creative hands",
+    "category": "Прочие магазины",
+    "longitude": 76.950290,
+    "latitude": 43.262390
+  },
+  {
+    "id": 26030,
+    "name": "ABC International English Centre",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.888196,
+    "latitude": 43.234067
+  },
+  {
+    "id": 26030,
+    "name": "ABC International English Centre",
+    "category": "Курсы",
+    "longitude": 76.888196,
+    "latitude": 43.234067
+  },
+  {
+    "id": 24305,
+    "name": "Химчистка  Bellissimo",
+    "category": "Химчистки",
+    "longitude": 76.897807,
+    "latitude": 43.212561
+  },
+  {
+    "id": 24098,
+    "name": "Happy Life",
+    "category": "Медицинские центры",
+    "longitude": 76.893402,
+    "latitude": 43.233150
+  },
+  {
+    "id": 28951,
+    "name": "IBH Детский сад",
+    "category": "Учебные заведения",
+    "longitude": 76.989398,
+    "latitude": 43.276708
+  },
+  {
+    "id": 28951,
+    "name": "IBH Детский сад",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.989398,
+    "latitude": 43.276708
+  },
+  {
+    "id": 32401,
+    "name": "Art Plus Baget",
+    "category": "Багетная мастерская",
+    "longitude": 76.940585,
+    "latitude": 43.258313
+  },
+  {
+    "id": 25685,
+    "name": "ski&bike",
+    "category": "Спорт",
+    "longitude": 71.433409,
+    "latitude": 51.166669
+  },
+  {
+    "id": 30929,
+    "name": "Sadirova's Center",
+    "category": "Учебные заведения",
+    "longitude": 76.864747,
+    "latitude": 43.240048
+  },
+  {
+    "id": 30929,
+    "name": "Sadirova's Center",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.864747,
+    "latitude": 43.240048
+  },
+  {
+    "id": 30929,
+    "name": "Sadirova's Center",
+    "category": "Курсы",
+    "longitude": 76.864747,
+    "latitude": 43.240048
+  },
+  {
+    "id": 27847,
+    "name": "TIR &A TRUCK",
+    "category": "Авто магазины",
+    "longitude": 76.911185,
+    "latitude": 43.280597
+  },
+  {
+    "id": 27847,
+    "name": "TIR &A TRUCK",
+    "category": "Транспорт",
+    "longitude": 76.911185,
+    "latitude": 43.280597
+  },
+  {
+    "id": 25754,
+    "name": "D Studio atelier",
+    "category": "Одежда",
+    "longitude": 76.931277,
+    "latitude": 43.235690
+  },
+  {
+    "id": 25754,
+    "name": "D Studio atelier",
+    "category": "Текстиль и кожа",
+    "longitude": 76.931277,
+    "latitude": 43.235690
+  },
+  {
+    "id": 24259,
+    "name": "Гражданский Альянс города Алматы",
+    "category": "Консалтинговые услуги",
+    "longitude": 76.932349,
+    "latitude": 43.225407
+  },
+  {
+    "id": 25179,
+    "name": "ADvertka",
+    "category": "Консалтинговые услуги",
+    "longitude": 76.902629,
+    "latitude": 43.211623
+  },
+  {
+    "id": 25179,
+    "name": "ADvertka",
+    "category": "Рекламные услуги",
+    "longitude": 76.902629,
+    "latitude": 43.211623
+  },
+  {
+    "id": 28905,
+    "name": "International British House",
+    "category": "Учебные заведения",
+    "longitude": 76.898511,
+    "latitude": 43.213481
+  },
+  {
+    "id": 25179,
+    "name": "ADvertka",
+    "category": "Полиграфия и дизайн",
+    "longitude": 76.902629,
+    "latitude": 43.211623
+  },
+  {
+    "id": 25110,
+    "name": "Uniclass",
+    "category": "Пошив одежды",
+    "longitude": 49.827661,
+    "latitude": 40.390152
+  },
+  {
+    "id": 28905,
+    "name": "International British House",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.898511,
+    "latitude": 43.213481
+  },
+  {
+    "id": 28905,
+    "name": "International British House",
+    "category": "Курсы",
+    "longitude": 76.898511,
+    "latitude": 43.213481
+  },
+  {
+    "id": 28905,
+    "name": "International British House",
+    "category": "Обучение за рубежом",
+    "longitude": 76.898511,
+    "latitude": 43.213481
+  },
+  {
+    "id": 24581,
+    "name": "Dance Studio 29",
+    "category": "Фитнес центры",
+    "longitude": 76.956530,
+    "latitude": 43.243140
+  },
+  {
+    "id": 24443,
+    "name": "Free Way",
+    "category": "Спорт",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 24443,
+    "name": "Free Way",
+    "category": "Фитнес центры",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 24374,
+    "name": "Акжол Transit",
+    "category": "Грузоперевозки",
+    "longitude": 76.919907,
+    "latitude": 43.267950
+  },
+  {
+    "id": 23155,
+    "name": "Декоративное панно \"Страна Великой Степи\"",
+    "category": "Супермаркеты",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 25248,
+    "name": "Детский центр «Буракова»",
+    "category": "Курсы",
+    "longitude": 76.932264,
+    "latitude": 43.240159
+  },
+  {
+    "id": 23155,
+    "name": "Декоративное панно \"Страна Великой Степи\"",
+    "category": "Подарки и сувениры",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 21936,
+    "name": "Мухаббат (строительные товары)",
+    "category": "Строительные материалы",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 29388,
+    "name": "Новое Поколение",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.849028,
+    "latitude": 43.209930
+  },
+  {
+    "id": 24190,
+    "name": "Kidzone - детская игровая компата для проведения праздничных мероприятий",
+    "category": "Активный отдых",
+    "longitude": 76.884810,
+    "latitude": 43.237360
+  },
+  {
+    "id": 30837,
+    "name": "Каприз",
+    "category": "Салоны красоты",
+    "longitude": 76.888263,
+    "latitude": 43.234677
+  },
+  {
+    "id": 27893,
+    "name": "Остров Молодости",
+    "category": "Салоны красоты",
+    "longitude": 76.908580,
+    "latitude": 43.238680
+  },
+  {
+    "id": 36127,
+    "name": "Abcenglishgroup",
+    "category": "Курсы",
+    "longitude": 76.915476,
+    "latitude": 43.236904
+  },
+  {
+    "id": 35529,
+    "name": "Hogwarts",
+    "category": "Кафе",
+    "longitude": 76.905479,
+    "latitude": 43.235353
+  },
+  {
+    "id": 35529,
+    "name": "Hogwarts",
+    "category": "Кофейни",
+    "longitude": 76.905479,
+    "latitude": 43.235353
+  },
+  {
+    "id": 35529,
+    "name": "Hogwarts",
+    "category": "Бары",
+    "longitude": 76.905479,
+    "latitude": 43.235353
+  },
+  {
+    "id": 33505,
+    "name": "Гармония",
+    "category": "Одежда",
+    "longitude": 76.941563,
+    "latitude": 43.229174
+  },
+  {
+    "id": 33505,
+    "name": "Гармония",
+    "category": "Ремонт",
+    "longitude": 76.941563,
+    "latitude": 43.229174
+  },
+  {
+    "id": 33804,
+    "name": "Школа Алгоритм",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.881394,
+    "latitude": 43.233670
+  },
+  {
+    "id": 33804,
+    "name": "Школа Алгоритм",
+    "category": "Курсы",
+    "longitude": 76.881394,
+    "latitude": 43.233670
+  },
+  {
+    "id": 20372,
+    "name": "Loco Hostel",
+    "category": "Хостелы",
+    "longitude": 76.893230,
+    "latitude": 43.230870
+  },
+  {
+    "id": 20464,
+    "name": "School",
+    "category": "Рекламные услуги",
+    "longitude": 76.948329,
+    "latitude": 43.239724
+  },
+  {
+    "id": 20533,
+    "name": "City Barber",
+    "category": "Салоны красоты",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 20740,
+    "name": "Алматинская Высшая Школа Управления (Академия Аспандау)",
+    "category": "Курсы",
+    "longitude": 76.959980,
+    "latitude": 43.235950
+  },
+  {
+    "id": 20740,
+    "name": "Алматинская Высшая Школа Управления (Академия Аспандау)",
+    "category": "Консалтинговые услуги",
+    "longitude": 76.959980,
+    "latitude": 43.235950
+  },
+  {
+    "id": 20878,
+    "name": "Falafel Forever",
+    "category": "Кафе",
+    "longitude": 76.924815,
+    "latitude": 43.241272
+  },
+  {
+    "id": 24742,
+    "name": "Any It Solutions",
+    "category": "Ремонт компьютеров",
+    "longitude": 76.933470,
+    "latitude": 43.240600
+  },
+  {
+    "id": 24742,
+    "name": "Any It Solutions",
+    "category": "Рекламные услуги",
+    "longitude": 76.933470,
+    "latitude": 43.240600
+  },
+  {
+    "id": 22028,
+    "name": "Pc Master",
+    "category": "Ремонт",
+    "longitude": 76.934270,
+    "latitude": 43.240700
+  },
+  {
+    "id": 22028,
+    "name": "Pc Master",
+    "category": "Ремонт компьютеров",
+    "longitude": 76.934270,
+    "latitude": 43.240700
+  },
+  {
+    "id": 33413,
+    "name": "TOKU",
+    "category": "Одежда",
+    "longitude": 76.945447,
+    "latitude": 43.238280
+  },
+  {
+    "id": 23891,
+    "name": "Товары для художников",
+    "category": "Оборудование и материалы для творчества",
+    "longitude": 76.948714,
+    "latitude": 43.262508
+  },
+  {
+    "id": 23891,
+    "name": "Товары для художников",
+    "category": "Магазины для творчества",
+    "longitude": 76.948714,
+    "latitude": 43.262508
+  },
+  {
+    "id": 23086,
+    "name": "Ura-mebel.kz",
+    "category": "Мебель и интерьер",
+    "longitude": 76.867035,
+    "latitude": 43.261827
+  },
+  {
+    "id": 24190,
+    "name": "Kidzone - детская игровая компата для проведения праздничных мероприятий",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.884810,
+    "latitude": 43.237360
+  },
+  {
+    "id": 35598,
+    "name": "Artego",
+    "category": "Салоны красоты",
+    "longitude": 76.902112,
+    "latitude": 43.250550
+  },
+  {
+    "id": 26122,
+    "name": "г.Талгар, пр.Д.Кунаева 87, этаж 3, бутик 6",
+    "category": "Турагентства",
+    "longitude": 77.236143,
+    "latitude": 43.302533
+  },
+  {
+    "id": 60139,
+    "name": "k-family",
+    "category": "Юридические услуги",
+    "longitude": 76.892053,
+    "latitude": 43.240969
+  },
+  {
+    "id": 24397,
+    "name": "Art Room",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.956237,
+    "latitude": 43.248744
+  },
+  {
+    "id": 24397,
+    "name": "Art Room",
+    "category": "Курсы",
+    "longitude": 76.956237,
+    "latitude": 43.248744
+  },
+  {
+    "id": 24673,
+    "name": "Центр Индустрии Красоты и Оздоровления Волос Александра Цой",
+    "category": "Салоны красоты",
+    "longitude": 76.961589,
+    "latitude": 43.238983
+  },
+  {
+    "id": 24926,
+    "name": "Alliance school",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.955373,
+    "latitude": 43.247282
+  },
+  {
+    "id": 24926,
+    "name": "Alliance school",
+    "category": "Курсы",
+    "longitude": 76.955373,
+    "latitude": 43.247282
+  },
+  {
+    "id": 23431,
+    "name": "Колледж университета им. Кунаева",
+    "category": "Курсы",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 23431,
+    "name": "Колледж университета им. Кунаева",
+    "category": "Учебные заведения",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 31159,
+    "name": "ГКБМ Школа бухгалтеров",
+    "category": "Учебные заведения",
+    "longitude": 76.923721,
+    "latitude": 43.266723
+  },
+  {
+    "id": 31159,
+    "name": "ГКБМ Школа бухгалтеров",
+    "category": "Курсы",
+    "longitude": 76.923721,
+    "latitude": 43.266723
+  },
+  {
+    "id": 24880,
+    "name": "Автомойка",
+    "category": "Автомойки",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 32332,
+    "name": "FOXYKID",
+    "category": "Одежда",
+    "longitude": 76.945438,
+    "latitude": 43.238280
+  },
+  {
+    "id": 32332,
+    "name": "FOXYKID",
+    "category": "Детские товары",
+    "longitude": 76.945438,
+    "latitude": 43.238280
+  },
+  {
+    "id": 32332,
+    "name": "FOXYKID",
+    "category": "Дом и сад",
+    "longitude": 76.945438,
+    "latitude": 43.238280
+  },
+  {
+    "id": 32332,
+    "name": "FOXYKID",
+    "category": "Одежда и обувь",
+    "longitude": 76.945438,
+    "latitude": 43.238280
+  },
+  {
+    "id": 32332,
+    "name": "FOXYKID",
+    "category": "Подарки и сувениры",
+    "longitude": 76.945438,
+    "latitude": 43.238280
+  },
+  {
+    "id": 25800,
+    "name": "M.A.G.NET Event",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.961548,
+    "latitude": 43.238377
+  },
+  {
+    "id": 33827,
+    "name": "МамаДОМ",
+    "category": "Учебные заведения",
+    "longitude": 76.940403,
+    "latitude": 43.242404
+  },
+  {
+    "id": 33827,
+    "name": "МамаДОМ",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.940403,
+    "latitude": 43.242404
+  },
+  {
+    "id": 33827,
+    "name": "МамаДОМ",
+    "category": "Курсы",
+    "longitude": 76.940403,
+    "latitude": 43.242404
+  },
+  {
+    "id": 33827,
+    "name": "МамаДОМ",
+    "category": "Аренда офисов",
+    "longitude": 76.940403,
+    "latitude": 43.242404
+  },
+  {
+    "id": 23017,
+    "name": "Самойлов & к",
+    "category": "Прочие магазины",
+    "longitude": 76.921146,
+    "latitude": 43.253457
+  },
+  {
+    "id": 23017,
+    "name": "Самойлов & к",
+    "category": "Подарки и сувениры",
+    "longitude": 76.921146,
+    "latitude": 43.253457
+  },
+  {
+    "id": 23017,
+    "name": "Самойлов & к",
+    "category": "Ювелирные изделия",
+    "longitude": 76.921146,
+    "latitude": 43.253457
+  },
+  {
+    "id": 22718,
+    "name": "Автомойка",
+    "category": "Автомойки",
+    "longitude": 76.923088,
+    "latitude": 43.269254
+  },
+  {
+    "id": 21522,
+    "name": "Остров сокровищ",
+    "category": "Одежда",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 21913,
+    "name": "Onyx Sport Club",
+    "category": "Кафе",
+    "longitude": 76.851547,
+    "latitude": 43.195199
+  },
+  {
+    "id": 25478,
+    "name": "Tour Media Systems",
+    "category": "Турагентства",
+    "longitude": 76.909370,
+    "latitude": 43.243354
+  },
+  {
+    "id": 30331,
+    "name": "Арена",
+    "category": "Спорт",
+    "longitude": 76.858807,
+    "latitude": 43.207662
+  },
+  {
+    "id": 30331,
+    "name": "Арена",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.858807,
+    "latitude": 43.207662
+  },
+  {
+    "id": 21913,
+    "name": "Onyx Sport Club",
+    "category": "Спорт",
+    "longitude": 76.851547,
+    "latitude": 43.195199
+  },
+  {
+    "id": 24834,
+    "name": "Дом терапии искусствами Ярт",
+    "category": "Курсы",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 24719,
+    "name": "2Films",
+    "category": "Полиграфия и дизайн",
+    "longitude": 76.870716,
+    "latitude": 43.216276
+  },
+  {
+    "id": 24765,
+    "name": "Алтын-Ай",
+    "category": "Кафе",
+    "longitude": 76.958690,
+    "latitude": 43.250450
+  },
+  {
+    "id": 23500,
+    "name": "13 Golden People ps4 club&hookah",
+    "category": "Кальян-бар",
+    "longitude": 76.932550,
+    "latitude": 43.258505
+  },
+  {
+    "id": 23454,
+    "name": "SONA lab",
+    "category": "Химия промышленная",
+    "longitude": 76.915630,
+    "latitude": 43.237540
+  },
+  {
+    "id": 23454,
+    "name": "SONA lab",
+    "category": "Канцелярские товары",
+    "longitude": 76.915630,
+    "latitude": 43.237540
+  },
+  {
+    "id": 26904,
+    "name": "AlcoDom",
+    "category": "Продуктовые магазины",
+    "longitude": 76.863797,
+    "latitude": 43.209082
+  },
+  {
+    "id": 26904,
+    "name": "AlcoDom",
+    "category": "Прочие магазины",
+    "longitude": 76.863797,
+    "latitude": 43.209082
+  },
+  {
+    "id": 26904,
+    "name": "AlcoDom",
+    "category": "Бары",
+    "longitude": 76.863797,
+    "latitude": 43.209082
+  },
+  {
+    "id": 46017,
+    "name": "Royal CAR",
+    "category": "Пассажирские перевозки",
+    "longitude": 76.920905,
+    "latitude": 43.239902
+  },
+  {
+    "id": 46017,
+    "name": "Royal CAR",
+    "category": "Аренда транспорта",
+    "longitude": 76.920905,
+    "latitude": 43.239902
+  },
+  {
+    "id": 46017,
+    "name": "Royal CAR",
+    "category": "Прочие транспортные услуги",
+    "longitude": 76.920905,
+    "latitude": 43.239902
+  },
+  {
+    "id": 55194,
+    "name": "СОЮЗ",
+    "category": "Спорт",
+    "longitude": 76.921624,
+    "latitude": 43.247429
+  },
+  {
+    "id": 51698,
+    "name": "Aryana",
+    "category": "Быстрое питание",
+    "longitude": 76.927434,
+    "latitude": 43.243637
+  },
+  {
+    "id": 51744,
+    "name": "RightNow Development Centre",
+    "category": "Консалтинговые услуги",
+    "longitude": 76.943139,
+    "latitude": 43.229688
+  },
+  {
+    "id": 26099,
+    "name": "Самал - 1, ТЦ Евразия (3 этаж, 315 офис)",
+    "category": "Турагентства",
+    "longitude": 76.955656,
+    "latitude": 43.234896
+  },
+  {
+    "id": 26076,
+    "name": "Туризм Казахстана (Жарокова 165, офис 2)",
+    "category": "Турагентства",
+    "longitude": 76.899176,
+    "latitude": 43.234234
+  },
+  {
+    "id": 48524,
+    "name": "Баня на колесах",
+    "category": "Активный отдых",
+    "longitude": 76.852943,
+    "latitude": 43.246146
+  },
+  {
+    "id": 48524,
+    "name": "Баня на колесах",
+    "category": "Аренда транспорта",
+    "longitude": 76.852943,
+    "latitude": 43.246146
+  },
+  {
+    "id": 51928,
+    "name": "MADberry CGI Школа",
+    "category": "Курсы",
+    "longitude": 76.868014,
+    "latitude": 43.231886
+  },
+  {
+    "id": 45971,
+    "name": "Посиделки",
+    "category": "Кафе",
+    "longitude": 76.961441,
+    "latitude": 43.255649
+  },
+  {
+    "id": 45971,
+    "name": "Посиделки",
+    "category": "Бары",
+    "longitude": 76.961441,
+    "latitude": 43.255649
+  },
+  {
+    "id": 31090,
+    "name": "Интеллектуальный клуб",
+    "category": "Курсы",
+    "longitude": 76.937098,
+    "latitude": 43.244972
+  },
+  {
+    "id": 51997,
+    "name": "Рестобар \"EGOIST\"",
+    "category": "Рестораны",
+    "longitude": 76.894620,
+    "latitude": 43.242460
+  },
+  {
+    "id": 51997,
+    "name": "Рестобар \"EGOIST\"",
+    "category": "Кафе",
+    "longitude": 76.894620,
+    "latitude": 43.242460
+  },
+  {
+    "id": 51997,
+    "name": "Рестобар \"EGOIST\"",
+    "category": "Бары",
+    "longitude": 76.894620,
+    "latitude": 43.242460
+  },
+  {
+    "id": 49145,
+    "name": "Two Two Chicken",
+    "category": "Кафе",
+    "longitude": 76.922298,
+    "latitude": 43.227107
+  },
+  {
+    "id": 49145,
+    "name": "Two Two Chicken",
+    "category": "Столовые",
+    "longitude": 76.922298,
+    "latitude": 43.227107
+  },
+  {
+    "id": 49145,
+    "name": "Two Two Chicken",
+    "category": "Быстрое питание",
+    "longitude": 76.922298,
+    "latitude": 43.227107
+  },
+  {
+    "id": 43970,
+    "name": "Grand BUS Almaty",
+    "category": "Ночные клубы и караоке",
+    "longitude": 76.852943,
+    "latitude": 43.246009
+  },
+  {
+    "id": 43970,
+    "name": "Grand BUS Almaty",
+    "category": "Аренда транспорта",
+    "longitude": 76.852943,
+    "latitude": 43.246009
+  },
+  {
+    "id": 43970,
+    "name": "Grand BUS Almaty",
+    "category": "Прочие транспортные услуги",
+    "longitude": 76.852943,
+    "latitude": 43.246009
+  },
+  {
+    "id": 43970,
+    "name": "Grand BUS Almaty",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.852943,
+    "latitude": 43.246009
+  },
+  {
+    "id": 60369,
+    "name": "Kaz_fitness",
+    "category": "Спорт",
+    "longitude": 76.882764,
+    "latitude": 43.216151
+  },
+  {
+    "id": 50893,
+    "name": "Альтаир",
+    "category": "Рестораны",
+    "longitude": 76.869223,
+    "latitude": 43.230701
+  },
+  {
+    "id": 50893,
+    "name": "Альтаир",
+    "category": "Банкетный зал",
+    "longitude": 76.869223,
+    "latitude": 43.230701
+  },
+  {
+    "id": 61013,
+    "name": "Boutique Hotel and Luxury Spa \"SHIK\"",
+    "category": "Салоны красоты",
+    "longitude": 76.892482,
+    "latitude": 43.168823
+  },
+  {
+    "id": 61013,
+    "name": "Boutique Hotel and Luxury Spa \"SHIK\"",
+    "category": "СПА и сауны",
+    "longitude": 76.892482,
+    "latitude": 43.168823
+  },
+  {
+    "id": 26766,
+    "name": "Автошкола Нуржан",
+    "category": "Авто магазины",
+    "longitude": 76.925446,
+    "latitude": 43.249642
+  },
+  {
+    "id": 61082,
+    "name": "Кафель в Алматы",
+    "category": "Магазины строительных материалов",
+    "longitude": 76.885447,
+    "latitude": 43.273197
+  },
+  {
+    "id": 48133,
+    "name": "Office Space",
+    "category": "Интернет, связь и  ТВ",
+    "longitude": 76.943410,
+    "latitude": 43.228640
+  },
+  {
+    "id": 48133,
+    "name": "Office Space",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.943410,
+    "latitude": 43.228640
+  },
+  {
+    "id": 59932,
+    "name": "GROS TECH",
+    "category": "Авто магазины",
+    "longitude": 76.919342,
+    "latitude": 43.279022
+  },
+  {
+    "id": 59932,
+    "name": "GROS TECH",
+    "category": "Авто-мото-велотехника",
+    "longitude": 76.919342,
+    "latitude": 43.279022
+  },
+  {
+    "id": 59863,
+    "name": "Можно Всё",
+    "category": "Кафе",
+    "longitude": 76.925335,
+    "latitude": 43.240030
+  },
+  {
+    "id": 60231,
+    "name": "Вкус жизни",
+    "category": "Быстрое питание",
+    "longitude": 76.924482,
+    "latitude": 43.247193
+  },
+  {
+    "id": 21821,
+    "name": "Фотостудия PhotoEmotion",
+    "category": "Полиграфии",
+    "longitude": 76.914340,
+    "latitude": 43.255790
+  },
+  {
+    "id": 51951,
+    "name": "MADberry Design Group",
+    "category": "Строительные услуги",
+    "longitude": 76.868037,
+    "latitude": 43.231924
+  },
+  {
+    "id": 51951,
+    "name": "MADberry Design Group",
+    "category": "Рекламные услуги",
+    "longitude": 76.868037,
+    "latitude": 43.231924
+  },
+  {
+    "id": 51951,
+    "name": "MADberry Design Group",
+    "category": "Полиграфия и дизайн",
+    "longitude": 76.868037,
+    "latitude": 43.231924
+  },
+  {
+    "id": 60990,
+    "name": "Продуктовый магазин Медео",
+    "category": "Продуктовые магазины",
+    "longitude": 76.965646,
+    "latitude": 43.215514
+  },
+  {
+    "id": 56758,
+    "name": "Zakazcvetov",
+    "category": "Прочие магазины",
+    "longitude": 76.958162,
+    "latitude": 43.256960
+  },
+  {
+    "id": 56758,
+    "name": "Zakazcvetov",
+    "category": "Цветочные магазины",
+    "longitude": 76.958162,
+    "latitude": 43.256960
+  },
+  {
+    "id": 61128,
+    "name": "make a cake",
+    "category": "Быстрое питание",
+    "longitude": 76.901941,
+    "latitude": 43.238641
+  },
+  {
+    "id": 60001,
+    "name": "Bisquit",
+    "category": "Кофейни",
+    "longitude": 76.955731,
+    "latitude": 43.246836
+  },
+  {
+    "id": 59978,
+    "name": "Bisquit - Tiff",
+    "category": "Кофейни",
+    "longitude": 76.955655,
+    "latitude": 43.246876
+  },
+  {
+    "id": 61128,
+    "name": "make a cake",
+    "category": "Курсы",
+    "longitude": 76.901941,
+    "latitude": 43.238641
+  },
+  {
+    "id": 48892,
+    "name": "Прокат мужских смокингов",
+    "category": "Прокат платьев и смокингов",
+    "longitude": 76.838914,
+    "latitude": 43.219170
+  },
+  {
+    "id": 28813,
+    "name": "Kemenger EC",
+    "category": "Учебные заведения",
+    "longitude": 76.910702,
+    "latitude": 43.256165
+  },
+  {
+    "id": 22143,
+    "name": "Sherlock-auto (аксессуары для любых автомобилей)",
+    "category": "Авто магазины",
+    "longitude": 76.822329,
+    "latitude": 43.238540
+  },
+  {
+    "id": 22511,
+    "name": "Musab",
+    "category": "Ремонтно-строительные работы",
+    "longitude": 76.894546,
+    "latitude": 43.257900
+  },
+  {
+    "id": 22488,
+    "name": "Polypack",
+    "category": "Строительные материалы",
+    "longitude": 76.894337,
+    "latitude": 43.257881
+  },
+  {
+    "id": 22465,
+    "name": "EcigShop - Магазин электронных сигарет и жидкостей",
+    "category": "Кальян-бар",
+    "longitude": 76.822338,
+    "latitude": 43.238562
+  },
+  {
+    "id": 22442,
+    "name": "Масла, фильтра, колодки, ремни, свечи, автокосметика (SCT GERMANY)",
+    "category": "Авто магазины",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 21982,
+    "name": "Автозапчасти на Японские машины",
+    "category": "Авто магазины",
+    "longitude": 76.822414,
+    "latitude": 43.238735
+  },
+  {
+    "id": 22120,
+    "name": "Автозапчасти для MERCEDES",
+    "category": "Авто магазины",
+    "longitude": 76.822475,
+    "latitude": 43.238827
+  },
+  {
+    "id": 22373,
+    "name": "Автозапчасти для Volkswagen, Audi, Skoda, Seat",
+    "category": "Авто магазины",
+    "longitude": 76.822124,
+    "latitude": 43.238415
+  },
+  {
+    "id": 20027,
+    "name": "Retail Facility Management",
+    "category": "Консалтинговые услуги",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 20027,
+    "name": "Retail Facility Management",
+    "category": "Ремонтно-строительные работы",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 28813,
+    "name": "Kemenger EC",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.910702,
+    "latitude": 43.256165
+  },
+  {
+    "id": 28813,
+    "name": "Kemenger EC",
+    "category": "Курсы",
+    "longitude": 76.910702,
+    "latitude": 43.256165
+  },
+  {
+    "id": 28813,
+    "name": "Kemenger EC",
+    "category": "Обучение за рубежом",
+    "longitude": 76.910702,
+    "latitude": 43.256165
+  },
+  {
+    "id": 28790,
+    "name": "Kemenger EC Самал",
+    "category": "Учебные заведения",
+    "longitude": 76.956972,
+    "latitude": 43.226529
+  },
+  {
+    "id": 28790,
+    "name": "Kemenger EC Самал",
+    "category": "Дошкольное и дополнительное обучение",
+    "longitude": 76.956972,
+    "latitude": 43.226529
+  },
+  {
+    "id": 28790,
+    "name": "Kemenger EC Самал",
+    "category": "Курсы",
+    "longitude": 76.956972,
+    "latitude": 43.226529
+  },
+  {
+    "id": 28790,
+    "name": "Kemenger EC Самал",
+    "category": "Обучение за рубежом",
+    "longitude": 76.956972,
+    "latitude": 43.226529
+  },
+  {
+    "id": 60346,
+    "name": "STRELKOFF",
+    "category": "Активный отдых",
+    "longitude": 76.882683,
+    "latitude": 43.216179
+  },
+  {
+    "id": 59955,
+    "name": "Totosha.kz",
+    "category": "Прочие магазины",
+    "longitude": 76.897528,
+    "latitude": 43.244871
+  },
+  {
+    "id": 26927,
+    "name": "АлкоПродТорг",
+    "category": "Продуктовые магазины",
+    "longitude": 76.920328,
+    "latitude": 43.284685
+  },
+  {
+    "id": 26927,
+    "name": "АлкоПродТорг",
+    "category": "Прочие магазины",
+    "longitude": 76.920328,
+    "latitude": 43.284685
+  },
+  {
+    "id": 26927,
+    "name": "АлкоПродТорг",
+    "category": "Бары",
+    "longitude": 76.920328,
+    "latitude": 43.284685
+  },
+  {
+    "id": 60576,
+    "name": "Риелторская компания Денежный магнит",
+    "category": "Аренда офисов",
+    "longitude": 76.835643,
+    "latitude": 43.243830
+  },
+  {
+    "id": 55470,
+    "name": "ТОО Техосмотр RPS",
+    "category": "Автосервис",
+    "longitude": 0.000000,
+    "latitude": 0.000000
+  },
+  {
+    "id": 60737,
+    "name": "Eco-Svet",
+    "category": "Прочие магазины",
+    "longitude": 76.888572,
+    "latitude": 43.230237
+  },
+  {
+    "id": 49076,
+    "name": "Viva Dogan",
+    "category": "Салоны красоты",
+    "longitude": 76.904421,
+    "latitude": 43.252553
+  },
+  {
+    "id": 49421,
+    "name": "Silk Way Cinema",
+    "category": "Кинотеатры",
+    "longitude": 76.937002,
+    "latitude": 43.254584
+  },
+  {
+    "id": 59840,
+    "name": "Азык-тулик \"Ханифа\"",
+    "category": "Продуктовые магазины",
+    "longitude": 76.823640,
+    "latitude": 43.224170
+  },
+  {
+    "id": 61059,
+    "name": "Фотостудия \"Фокус\"",
+    "category": "Курсы",
+    "longitude": 76.903337,
+    "latitude": 43.216096
+  },
+  {
+    "id": 61059,
+    "name": "Фотостудия \"Фокус\"",
+    "category": "Фото и видео салон",
+    "longitude": 76.903337,
+    "latitude": 43.216096
+  },
+  {
+    "id": 49260,
+    "name": "Тайм Кафе «Cities»",
+    "category": "Кофейни",
+    "longitude": 76.861127,
+    "latitude": 43.206647
+  },
+  {
+    "id": 49260,
+    "name": "Тайм Кафе «Cities»",
+    "category": "Активный отдых",
+    "longitude": 76.861127,
+    "latitude": 43.206647
+  },
+  {
+    "id": 49260,
+    "name": "Тайм Кафе «Cities»",
+    "category": "Интернет и компьютерные клубы",
+    "longitude": 76.861127,
+    "latitude": 43.206647
+  },
+  {
+    "id": 49260,
+    "name": "Тайм Кафе «Cities»",
+    "category": "Организация и проведение праздников",
+    "longitude": 76.861127,
+    "latitude": 43.206647
+  },
+  {
+    "id": 60714,
+    "name": "Лавка Папы Карло",
+    "category": "Сувенирные магазины",
+    "longitude": 76.937968,
+    "latitude": 43.246435
+  },
+  {
+    "id": 60047,
+    "name": "Детейлинг Центр \"UNIONCAR\"",
+    "category": "Авто магазины",
+    "longitude": 76.898565,
+    "latitude": 43.218232
+  },
+  {
+    "id": 60024,
+    "name": "alkantara.kz",
+    "category": "Авто магазины",
+    "longitude": 76.919328,
+    "latitude": 43.279116
+  },
+  {
+    "id": 60070,
+    "name": "Sweet Stories",
+    "category": "Прочие магазины",
+    "longitude": 76.869150,
+    "latitude": 43.267143
+  },
+  {
+    "id": 60070,
+    "name": "Sweet Stories",
+    "category": "Продукты питания и пищевые ингредиенты",
+    "longitude": 76.869150,
+    "latitude": 43.267143
+  },
+  {
+    "id": 61036,
+    "name": "Boutique Hotel and Luxury Spa \"SHIK\"",
+    "category": "Салоны красоты",
+    "longitude": 76.974520,
+    "latitude": 43.201061
+  },
+  {
+    "id": 61036,
+    "name": "Boutique Hotel and Luxury Spa \"SHIK\"",
+    "category": "СПА и сауны",
+    "longitude": 76.974520,
+    "latitude": 43.201061
+  },
+  {
+    "id": 22074,
+    "name": "Творческий центр МУРАГЕР",
+    "category": "Курсы",
+    "longitude": 76.893317,
+    "latitude": 43.241199
+  },
+  {
+    "id": 21798,
+    "name": "Курак корпе",
+    "category": "Пошив одежды",
+    "longitude": 76.926447,
+    "latitude": 43.245410
+  },
+  {
+    "id": 21844,
+    "name": "Автозапчасти для Японских Автомобилей",
+    "category": "Авто магазины",
+    "longitude": 76.956530,
+    "latitude": 43.243140
+  }
+]
