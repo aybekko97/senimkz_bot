@@ -1,6 +1,11 @@
 from math import radians, cos, sin, asin, sqrt
 
 
+class Message:
+    def __init__(self, chat, message_id):
+        self.chat = chat
+        self.message_id = message_id
+
 # haversine distance
 def get_distance(lon1, lat1, lon2, lat2):
     """
