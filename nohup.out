@@ -1,0 +1,8 @@
+Error handling request
+Traceback (most recent call last):
+  File "/root/my_env/lib/python3.5/site-packages/aiohttp/web_protocol.py", line 278, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 274, in aiohttp._http_parser.HttpParser.feed_data (aiohttp/_http_parser.c:4364)
+  File "aiohttp/_http_parser.pyx", line 334, in aiohttp._http_parser.cb_on_url (aiohttp/_http_parser.c:5381)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser._parse_url (aiohttp/_http_parser.c:8903)
+aiohttp.http_exceptions.InvalidURLError: 400, message='invalid url b'40683:AAFqmBXfeWzMdJwZ5xeS-wo_OFyWcFAnJq8/''

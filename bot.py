@@ -1,5 +1,8 @@
+
 import json
 
+from aiohttp import web
+import ssl
 import telebot
 from telebot import types
 
@@ -13,16 +16,47 @@ replied = {}
 
 bot = telebot.TeleBot(token)
 
+WEBHOOK_HOST = '95.85.35.196'
+WEBHOOK_PORT = 443  # 443, 80, 88 or 8443 (port need to be 'open')
+WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
+
+WEBHOOK_SSL_CERT = './webhook_cert.pem'  # Path to the ssl certificate
+WEBHOOK_SSL_PRIV = './webhook_pkey.pem'  # Path to the ssl private key
+
+
+# Quick'n'dirty SSL certificate generation:
+#
+# openssl genrsa -out webhook_pkey.pem 2048
+# openssl req -new -x509 -days 3650 -key webhook_pkey.pem -out webhook_cert.pem
+#
+# When asked for "Common Name (e.g. server FQDN or YOUR name)" you should reply
+# with the same value in you put in WEBHOOK_HOST
+
+WEBHOOK_URL_BASE = "https://{}:{}".format(WEBHOOK_HOST, WEBHOOK_PORT)
+WEBHOOK_URL_PATH = "/{}/".format(token)
+
+app = web.Application()
+# Process webhook calls
+async def handle(request):
+    if request.match_info.get('token') == bot.token:
+        request_body_dict = await request.json()
+        update = telebot.types.Update.de_json(request_body_dict)
+        bot.process_new_updates([update])
+        return web.Response()
+    else:
+        return web.Response(status=403)
+
+app.router.add_post('/{token}/', handle)
 
 # Load data
 
-data = open('static/points.json')
+data = open('static/points.json', encoding='utf-8')
 points = json.load(data)
 
 for i in range(len(points)):
     points[i]['i'] = i
 
-data = open('static/category.json')
+data = open('static/category.json', encoding='utf-8')
 categories = json.load(data)
 
 
@@ -169,7 +203,7 @@ def help(message):
         hello = "Здравствуйте, %s!\nПеред вами бот Senim. Я помогу вам найти наши  более быстро и удобно.\n\n" % message.from_user.first_name
     else:
         hello = "Здравствуйте!"
-    bot.send_message(message.chat.id, "*Вы можете воспользоваться этими командами, \nчтобы:*\n\n"
+    bot.send_message(message.chat.id, hello + "*Вы можете воспользоваться этими командами, \nчтобы:*\n\n"
                                       "[/near](tg://bot_command?command=near&bot=senimkz_bot) - получить список 10 ближайших точек Senim\n"
                                       "[/nearc](tg://bot_command?command=nearc&bot=senimkz_bot) - получить список 10 ближайших точек по категории\n"
                                       "[/ask](tg://bot_command?command=ask&bot=senimkz_bot) - задать вопрос оператору\n"
@@ -190,7 +224,7 @@ def about(message):
 @bot.message_handler(func=lambda message: in_step_handler(message) is False, content_types=['text'])
 def echo_message(message):
     if message.chat.id in OPERATORS:
-        if message.reply_to_message is not None:
+        if message.reply_to_message is not None and (message.reply_to_message.text[0] == '@' or message.reply_to_message.text[:4] == 'User'):
             reply_text = message.reply_to_message.text
             dot_i = reply_text.index(' ')
 
@@ -249,30 +283,24 @@ def callback_inline(call):
 
 
 bot.skip_pending = True
-bot.polling(none_stop=True)
+#bot.polling(none_stop=True)
 
-'''
-/near - Присылать 10 ближайших точек Senim. Приветствуется использование алгоритма нахождения короткого пути при помощи Яндекс/Google карт.
-/nearc - Выбрать категорию и присылать ближайшие 10 точек по данной категории. Приветствуется использование алгоритма нахождения короткого пути при помощи Яндекс/Google карт.
-/ask - Задать вопрос в службу поддержки. Данный вопрос автоматически должен отправиться на другой номер телефона, у которого есть телеграмм. Другой номер телефона отправляет может отправлять ответ на заданные вопросы.
-/help - выдает список команд бота и их описание
-/about - выдает информацию о сервисе. Взять на senim.kz
-Входные данные:
-Название, координаты, категория продавцов в формате JSON. Файл points.json
-Выходные данные:
-/near - Присылать 10 ближайших точек Senim. 
-/nearc - Выбрать категорию и присылать ближайшие 10 точек по данной категории. 
-/ask - ответ от оператора
-/help - список команд бота и их описание
-/about - информация о сервисе.
 
-Zadachi:
+# Remove webhook, it fails sometimes the set if there is a previous webhook
+bot.remove_webhook()
 
-    api.ai podkluchit'
-        audio
-        vopros otvet
-    
-    https://developer.foursquare.com/docs/venues/search
-    https://api.foursquare.com/v2/venues/search?ll=43.213481,76.898511&radius=20&client_id=MTIFTGIYAW4KLFJVIC0HBUAFJMIKEEEAJL1HVUHHANZGBA0Z&client_secret=DF1TVMJ1ZKE10TNEGTWY5ST4KNP0132HE4FIAVOCVVKPV4U3&v=20170925&m=foursquare
+# Set webhook
+bot.set_webhook(url=WEBHOOK_URL_BASE+WEBHOOK_URL_PATH,
+                certificate=open(WEBHOOK_SSL_CERT, 'r'))
 
-'''
+# Build ssl context
+context = ssl.SSLContext(ssl.PROTOCOL_TLSv1_2)
+context.load_cert_chain(WEBHOOK_SSL_CERT, WEBHOOK_SSL_PRIV)
+
+# Start aiohttp server
+web.run_app(
+    app,
+    host=WEBHOOK_LISTEN,
+    port=WEBHOOK_PORT,
+    ssl_context=context,
+)
